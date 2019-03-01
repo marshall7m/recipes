@@ -7,11 +7,7 @@ Ingredients:
  - 2 teaspoon salt
  - 2 eggs
  - 1 cup milk
-<<<<<<< HEAD
- - 1/2 cup olive oil
-=======
- - 3/4 cup coconut oil
->>>>>>> 680bba3a14dc4ff8e48b3ed63179c36dc6ee4615
+ - 3/4 cup olive oil
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
